@@ -1,0 +1,19 @@
+{
+  "name": "jsframework",
+  "version": "1.0.0",
+  "description": "Building a library/ framework in jsavascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poitras/jsFramework.git"
+  },
+  "author": "Nicolas Poitras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poitras/jsFramework/issues"
+  },
+  "homepage": "https://github.com/poitras/jsFramework#readme"
+}
